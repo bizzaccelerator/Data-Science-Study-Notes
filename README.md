@@ -1,5 +1,6 @@
 # Data Science Study Notes
 These are the study notes I've taken during my self thaught path as a Data Scientist.
+
 I've divided my notes in the form of chapters that anyone can follow to learn data science faster than I did. All chapters begin with a introduction to the subject, and are closed with conclusions and further readings suggested. 
 
 ### Table of content
