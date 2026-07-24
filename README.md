@@ -7,10 +7,11 @@ I've divided my notes in the form of chapters that anyone can follow to learn da
 
 1. Data Science concepts
 2. Python for data science
-3. Data managing using Pandas - Part 1
-4. Data managing using Pandas - Part 2
-5. Accesing data from files and APIs
-6. (Data Visualization chapter)
-7. Exploratory Data Analysis
-8. Data wrangling / Cleaning
-9. (Data Analysis - A Complete project)
+3. Numpy (Numerical python) for Data Science
+4. Data managing using Pandas - Part 1
+5. Data managing using Pandas - Part 2
+6. Accesing data from files and APIs
+7. (Data Visualization chapter)
+8. Exploratory Data Analysis
+9. Data wrangling / Cleaning
+10. (Data Analysis - A Complete project)
